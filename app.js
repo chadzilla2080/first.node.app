@@ -10,7 +10,6 @@ var app = express();
 var port = 5000;
 
 app.get('/', function(req, res){
-	res.render('index', {});
 	res.send('Hello World!');
 });
 
