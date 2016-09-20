@@ -1,0 +1,21 @@
+{
+  "name": "first.node.app",
+  "description": "Just a test application",
+  "main": "app.js",
+  "authors": [
+    "Chad"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/chadzilla2080/first.node.app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.7",
+    "font-awesome": "~4.6.3"
+  }
+}
